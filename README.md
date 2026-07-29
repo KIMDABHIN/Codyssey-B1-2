@@ -24,10 +24,19 @@
 
 ## Tone & Manner
 
-* Trendy
-* Emotional
-* Global
-* Hopeful
+*Gray / Dark Tone
+낮은 채도의 차분한 색감
+고독하지만 희망을 품은 분위기
+
+*Neutral Tone → Warm Tone 변화
+점차 밝아지는 조명
+노력과 성장의 과정 강조
+
+*Neon Color & Bright Lighting
+화려한 무대와 관객의 에너지 표현
+
+*Soft Light
+따뜻한 감정과 브랜드 메시지 전달
 
 ## USP (Unique Selling Proposition)
 
