@@ -1,5 +1,3 @@
-# Codyssey-B1-2
-Codyssey B1-2
 # LUMEN ENT. 브랜드 영상 제작 프로젝트
 
 ## 1. 프로젝트 소개
